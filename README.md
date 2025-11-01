@@ -192,10 +192,9 @@ File	Description
 TP1.pdf	Official assignment specification (Portuguese)
 Relatorio.docx	10-page report with analysis and results
 *.nlogo	Clean, well-documented NetLogo source code
+
 👨‍🏫 Authors
-
 Miguel Cardoso
-
 João Pinto
 
 📘 Course: Introduction to Artificial Intelligence
